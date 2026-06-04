@@ -1,10 +1,10 @@
-# EXPERIMENT NO. 7
+# EXPERIMENT NO. 4
 
 # SIMULATION AND IMPLEMENTATION OF FLIP-FLOPS, SHIFT REGISTERS, UP/DOWN COUNTER
 
 ### Submitted By
 
-**R.K. Vageesh Ragav**
+**GOPAL B**
 B.E. Electronics and Communication Engineering (ECE)
 Saveetha Engineering College, Chennai
 
@@ -249,7 +249,7 @@ Thus, the Flip-Flops, Shift Registers and Up/Down Counter were successfully impl
 
 # AUTHOR DETAILS
 
-**Name:** R.K. Vageesh Ragav
+**Name:** GOPAL B
 **Department:** Electronics and Communication Engineering (ECE)
 **College:** Saveetha Engineering College
 **Course Code:** EC1801 – Digital Logic Circuits Design Laboratory
